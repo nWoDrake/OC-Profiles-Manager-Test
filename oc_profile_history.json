@@ -1,0 +1,34 @@
+{
+  "entries": [
+    {
+      "profile": "Default",
+      "timestamp": "2026-11-27T03:20:56.932008",
+      "exe": "",
+      "duration_sec": 9.260017
+    },
+    {
+      "profile": "Default",
+      "timestamp": "2026-11-27T03:21:10.014372",
+      "exe": "",
+      "duration_sec": 5.263553
+    },
+    {
+      "profile": "Default",
+      "timestamp": "2026-11-27T03:21:18.977768",
+      "exe": "",
+      "duration_sec": 8.620325
+    },
+    {
+      "profile": "Spider Man 2",
+      "timestamp": "2026-11-27T03:21:27.598093",
+      "exe": "",
+      "duration_sec": 7.667286
+    },
+    {
+      "profile": "Default",
+      "timestamp": "2026-11-27T03:21:35.265379",
+      "exe": "",
+      "duration_sec": 0.0
+    }
+  ]
+}

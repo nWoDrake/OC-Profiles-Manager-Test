@@ -1,0 +1,116 @@
+2026-11-27 03:20:16 - __main__ - DEBUG - Log level console da config: INFO
+2026-11-27 03:20:16 - __main__ - INFO - Config non trovato
+2026-11-27 03:20:16 - __main__ - INFO - Avvio wizard
+2026-11-27 03:20:16 - themes - INFO - Registrato tema: id='red_glossy' name='Red Glossy' v2.5.0
+2026-11-27 03:20:53 - __main__ - INFO - Config salvata: C:/Program Files (x86)/MSI Afterburner/MSIAfterburner.exe
+2026-11-27 03:20:53 - __main__ - INFO - Struttura creata
+2026-11-27 03:20:53 - __main__ - INFO - ============================================================
+2026-11-27 03:20:53 - __main__ - INFO - OCProfilesManager v2.7.0 - Avvio
+2026-11-27 03:20:53 - __main__ - INFO - ============================================================
+2026-11-27 03:20:53 - __main__ - INFO - Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+2026-11-27 03:20:53 - __main__ - INFO - Platform: Windows-11-10.0.26200-SP0
+2026-11-27 03:20:53 - __main__ - INFO - Architecture: 64bit
+2026-11-27 03:20:53 - __main__ - INFO - Working Dir: C:\Users\Gianluk\Documents\Codex\2026-11-21\https-github-com-nwodrake-oc-profiles\outputs\OC-Profiles-Manager-3.0.0-Windows-x64\OC-Profiles-Manager-2-main
+2026-11-27 03:20:53 - __main__ - INFO - Executable: c:\python313\python.exe
+2026-11-27 03:20:53 - __main__ - INFO - MSI Afterburner Path: C:/Program Files (x86)/MSI Afterburner/MSIAfterburner.exe
+2026-11-27 03:20:53 - __main__ - INFO - MSI Afterburner Exists: True
+2026-11-27 03:20:53 - oc_core - INFO - NVML inizializzato da: nvml.dll
+2026-11-27 03:20:53 - __main__ - INFO - GPU Monitor Mode: Hardware (NVML)
+2026-11-27 03:20:53 - __main__ - INFO - ------------------------------------------------------------
+2026-11-27 03:20:53 - themes - INFO - Discovery temi in: C:\Users\Gianluk\Documents\Codex\2026-11-21\https-github-com-nwodrake-oc-profiles\outputs\OC-Profiles-Manager-3.0.0-Windows-x64\OC-Profiles-Manager-2-main\themes
+2026-11-27 03:20:53 - themes - INFO - Registrato tema: id='liquid_glass' name='Liquid Glass' v1.0.0
+2026-11-27 03:20:53 - themes - INFO - Discovery completata: 2 tema/i caricato/i
+2026-11-27 03:20:53 - __main__ - INFO - Tema UI attivo: 'red_glossy' (Red Glossy v2.5.0)
+2026-11-27 03:20:53 - themes.base - INFO - Creazione MainWindow del tema 'red_glossy' (v2.5.0)
+2026-11-27 03:20:54 - oc_services - INFO - Hotkey globali attive: Ctrl+Alt+1..9
+2026-11-27 03:20:54 - themes.red_glossy.main_window - INFO - Sistema pronto. Monitor: Nvidia API
+2026-11-27 03:20:54 - oc_services - INFO - Backup creato: profiles_backup_2026-11-27_032054.zip (3 file)
+2026-11-27 03:20:55 - oc_services - DEBUG - UpdateChecker: HTTP Error 404: Not Found
+2026-11-27 03:20:56 - oc_core - INFO - Profilo applicato: Default
+2026-11-27 03:20:56 - oc_controller - INFO - Profilo applicato: Default
+2026-11-27 03:20:56 - themes.red_glossy.main_window - INFO - Profilo applicato: Default
+2026-11-27 03:21:04 - themes.red_glossy.main_window - INFO - Tema selezionato: liquid_glass (riavvio richiesto)
+2026-11-27 03:21:05 - themes.red_glossy.main_window - INFO - Riavvio in corso...
+2026-11-27 03:21:06 - oc_core - INFO - NVML shutdown completato
+2026-11-27 03:21:06 - __main__ - INFO - Terminato (exit: 0)
+2026-11-27 03:21:06 - __main__ - DEBUG - Log level console da config: INFO
+2026-11-27 03:21:06 - __main__ - INFO - ============================================================
+2026-11-27 03:21:06 - __main__ - INFO - OCProfilesManager v2.7.0 - Avvio
+2026-11-27 03:21:06 - __main__ - INFO - ============================================================
+2026-11-27 03:21:06 - __main__ - INFO - Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+2026-11-27 03:21:06 - __main__ - INFO - Platform: Windows-11-10.0.26200-SP0
+2026-11-27 03:21:06 - __main__ - INFO - Architecture: 64bit
+2026-11-27 03:21:06 - __main__ - INFO - Working Dir: C:\Users\Gianluk\Documents\Codex\2026-11-21\https-github-com-nwodrake-oc-profiles\outputs\OC-Profiles-Manager-3.0.0-Windows-x64\OC-Profiles-Manager-2-main
+2026-11-27 03:21:06 - __main__ - INFO - Executable: c:\python313\python.exe
+2026-11-27 03:21:06 - __main__ - INFO - MSI Afterburner Path: C:/Program Files (x86)/MSI Afterburner/MSIAfterburner.exe
+2026-11-27 03:21:06 - __main__ - INFO - MSI Afterburner Exists: True
+2026-11-27 03:21:06 - oc_core - INFO - NVML inizializzato da: nvml.dll
+2026-11-27 03:21:06 - __main__ - INFO - GPU Monitor Mode: Hardware (NVML)
+2026-11-27 03:21:06 - __main__ - INFO - ------------------------------------------------------------
+2026-11-27 03:21:06 - themes - INFO - Discovery temi in: C:\Users\Gianluk\Documents\Codex\2026-11-21\https-github-com-nwodrake-oc-profiles\outputs\OC-Profiles-Manager-3.0.0-Windows-x64\OC-Profiles-Manager-2-main\themes
+2026-11-27 03:21:06 - themes - INFO - Registrato tema: id='liquid_glass' name='Liquid Glass' v1.0.0
+2026-11-27 03:21:06 - themes - INFO - Registrato tema: id='red_glossy' name='Red Glossy' v2.5.0
+2026-11-27 03:21:06 - themes - INFO - Discovery completata: 2 tema/i caricato/i
+2026-11-27 03:21:06 - __main__ - INFO - Tema UI attivo: 'liquid_glass' (Liquid Glass v1.0.0)
+2026-11-27 03:21:06 - themes.base - INFO - Creazione MainWindow del tema 'liquid_glass' (v1.0.0)
+2026-11-27 03:21:07 - themes.red_glossy.main_window - INFO - Sistema pronto. Monitor: Nvidia API
+2026-11-27 03:21:07 - oc_services - INFO - Hotkey globali attive: Ctrl+Alt+1..9
+2026-11-27 03:21:08 - themes.liquid_glass.main_window - INFO - Tema Liquid Glass attivo
+2026-11-27 03:21:08 - oc_services - INFO - Backup creato: profiles_backup_2026-11-27_032107.zip (3 file)
+2026-11-27 03:21:08 - oc_services - DEBUG - UpdateChecker: HTTP Error 404: Not Found
+2026-11-27 03:21:10 - oc_core - INFO - Profilo applicato: Default
+2026-11-27 03:21:10 - oc_controller - INFO - Profilo applicato: Default
+2026-11-27 03:21:10 - themes.red_glossy.main_window - INFO - Profilo applicato: Default
+2026-11-27 03:21:11 - themes.red_glossy.main_window - INFO - Tema selezionato: red_glossy (riavvio richiesto)
+2026-11-27 03:21:13 - themes.red_glossy.main_window - INFO - Riavvio in corso...
+2026-11-27 03:21:15 - oc_core - INFO - NVML shutdown completato
+2026-11-27 03:21:15 - __main__ - INFO - Terminato (exit: 0)
+2026-11-27 03:21:15 - __main__ - DEBUG - Log level console da config: INFO
+2026-11-27 03:21:15 - __main__ - INFO - ============================================================
+2026-11-27 03:21:15 - __main__ - INFO - OCProfilesManager v2.7.0 - Avvio
+2026-11-27 03:21:15 - __main__ - INFO - ============================================================
+2026-11-27 03:21:15 - __main__ - INFO - Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+2026-11-27 03:21:15 - __main__ - INFO - Platform: Windows-11-10.0.26200-SP0
+2026-11-27 03:21:15 - __main__ - INFO - Architecture: 64bit
+2026-11-27 03:21:15 - __main__ - INFO - Working Dir: C:\Users\Gianluk\Documents\Codex\2026-11-21\https-github-com-nwodrake-oc-profiles\outputs\OC-Profiles-Manager-3.0.0-Windows-x64\OC-Profiles-Manager-2-main
+2026-11-27 03:21:15 - __main__ - INFO - Executable: c:\python313\python.exe
+2026-11-27 03:21:15 - __main__ - INFO - MSI Afterburner Path: C:/Program Files (x86)/MSI Afterburner/MSIAfterburner.exe
+2026-11-27 03:21:15 - __main__ - INFO - MSI Afterburner Exists: True
+2026-11-27 03:21:15 - oc_core - INFO - NVML inizializzato da: nvml.dll
+2026-11-27 03:21:15 - __main__ - INFO - GPU Monitor Mode: Hardware (NVML)
+2026-11-27 03:21:15 - __main__ - INFO - ------------------------------------------------------------
+2026-11-27 03:21:15 - themes - INFO - Discovery temi in: C:\Users\Gianluk\Documents\Codex\2026-11-21\https-github-com-nwodrake-oc-profiles\outputs\OC-Profiles-Manager-3.0.0-Windows-x64\OC-Profiles-Manager-2-main\themes
+2026-11-27 03:21:15 - themes - INFO - Registrato tema: id='liquid_glass' name='Liquid Glass' v1.0.0
+2026-11-27 03:21:15 - themes - INFO - Registrato tema: id='red_glossy' name='Red Glossy' v2.5.0
+2026-11-27 03:21:15 - themes - INFO - Discovery completata: 2 tema/i caricato/i
+2026-11-27 03:21:15 - __main__ - INFO - Tema UI attivo: 'red_glossy' (Red Glossy v2.5.0)
+2026-11-27 03:21:15 - themes.base - INFO - Creazione MainWindow del tema 'red_glossy' (v2.5.0)
+2026-11-27 03:21:16 - themes.red_glossy.main_window - INFO - Sistema pronto. Monitor: Nvidia API
+2026-11-27 03:21:16 - oc_services - INFO - Hotkey globali attive: Ctrl+Alt+1..9
+2026-11-27 03:21:16 - oc_services - INFO - Backup creato: profiles_backup_2026-11-27_032116.zip (3 file)
+2026-11-27 03:21:17 - oc_services - DEBUG - UpdateChecker: HTTP Error 404: Not Found
+2026-11-27 03:21:18 - oc_core - INFO - Profilo applicato: Default
+2026-11-27 03:21:18 - oc_controller - INFO - Profilo applicato: Default
+2026-11-27 03:21:18 - themes.red_glossy.main_window - INFO - Profilo applicato: Default
+2026-11-27 03:21:26 - oc_core - INFO - [MONITOR] Pausa (edit)
+2026-11-27 03:21:26 - oc_controller - INFO - [EDIT] Monitoraggio pausa per: Spider Man 2
+2026-11-27 03:21:26 - themes.red_glossy.main_window - INFO - [EDIT] Monitoraggio pausa per: Spider Man 2
+2026-11-27 03:21:27 - themes.red_glossy.main_window - INFO - Editor aperto.
+2026-11-27 03:21:27 - oc_core - INFO - Profilo applicato: Spider Man 2
+2026-11-27 03:21:27 - oc_controller - INFO - Profilo applicato: Spider Man 2
+2026-11-27 03:21:27 - themes.red_glossy.main_window - INFO - Profilo applicato: Spider Man 2
+2026-11-27 03:21:31 - oc_core - INFO - Profilo salvato: Spider Man 2
+2026-11-27 03:21:31 - oc_controller - INFO - [EDIT] Profilo salvato
+2026-11-27 03:21:31 - themes.red_glossy.main_window - INFO - [EDIT] Profilo salvato
+2026-11-27 03:21:32 - oc_core - INFO - [MONITOR] Ripreso
+2026-11-27 03:21:32 - oc_controller - INFO - [EDIT] Monitoraggio ripreso
+2026-11-27 03:21:32 - themes.red_glossy.main_window - INFO - [EDIT] Monitoraggio ripreso
+2026-11-27 03:21:32 - themes.red_glossy.main_window - INFO - MSI riavviato, monitoraggio ripreso.
+2026-11-27 03:21:34 - themes.red_glossy.main_window - INFO - [AUTO] Default
+2026-11-27 03:21:34 - themes.red_glossy.main_window - INFO - Applicazione: Default...
+2026-11-27 03:21:35 - oc_core - INFO - Profilo applicato: Default
+2026-11-27 03:21:35 - oc_controller - INFO - Profilo applicato: Default
+2026-11-27 03:21:35 - themes.red_glossy.main_window - INFO - Profilo applicato: Default
+2026-11-27 03:21:35 - themes.red_glossy.main_window - INFO - Applicato: Default
+2026-11-27 03:21:44 - cfg_editor.editor_widget - INFO - CFG Editor: caricato VEN_10DE&DEV_2482&SUBSYS_14B210DE&REV_A1&BUS_1&DEV_0&FN_0.cfg [Profile1]
+2026-11-27 03:21:44 - themes.red_glossy.main_window - INFO - CFG Editor: aperti 1 file per 'Spider Man 2'
